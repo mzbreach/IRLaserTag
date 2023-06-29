@@ -2,7 +2,7 @@
 
 This is the repository for our IR laser tag project.
 
-#very much so a _**WIP**_
+# very much so a _**WIP**_
 
 Project members include:
 - Matthew Breach ([breac001](mailto:breac001@umn.edu))
